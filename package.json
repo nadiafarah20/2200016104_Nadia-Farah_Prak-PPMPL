@@ -1,0 +1,13 @@
+{
+  "name": "prak-ppmpl",
+  "version": "1.0.0",
+  "main": "math.js",
+  "scripts": {
+    "test": "mocha",
+    "latihantest": "mocha test/latihan.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
